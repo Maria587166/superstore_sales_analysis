@@ -169,7 +169,7 @@ dashboard_preview.png - Screenshot of the final Tableau dashboard
 
 How to Explore 
 
-1. Excel: open excel_analysis.xlsx, review the pivot tables and Data Analysis ToolPak 
+1. Excel: open superstore_cleaned_compete_project.xlsx, review the pivot tables and Data Analysis ToolPak 
 
 output (t-test and regression sheets) 
 
