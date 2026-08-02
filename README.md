@@ -3,7 +3,7 @@ Business analytics project examining discount policy and profitability using Exc
 
 Overview 
 
-End-to-end business analytics project examining how discount policy affects 
+Business analytics project examining how discount policy affects 
 
 profitability at a retail company, and which product categories and customers actually 
 
