@@ -1,5 +1,5 @@
 # superstore_sales_analysis
-Business analytics project examining discount policy and profitability using Excel, SQL and Tableu
+Business analytics project examining discount policy and profitability using Excel, SQL and Tableau
 
 Overview 
 
@@ -67,7 +67,7 @@ Profit by category (bar chart)
 
 Multi-year sales trend showing seasonality (line chart by year) 
 
-Discount vs. Profit scatter plot with a trend line 
+Discount vs Profit scatter plot with a trend line 
 
 Interactive category filter applied across all views 
 
@@ -177,7 +177,7 @@ output (t-test and regression sheets)
 
 analysis_queries.sql on the Execute SQL tab 
 
-Tableau: view the live dashboard  
+Tableau: view the live dashboard  https://public.tableau.com/app/profile/maria.medvedieva2019/viz/SuperstoreSalesProfitabilityAnalysis_17854371878390/Dashboard1?publish=yes 
 
 Author 
 
