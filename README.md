@@ -27,9 +27,7 @@ and what should change).
 
 Dataset 
 
-Sample Superstore - a well-known global retail dataset (built into Tableau as a sample 
-
-data source), ~51,290 orders from 2011–2014, covering Furniture, Office Supplies, and 
+Sample Superstore - a well-known global retail dataset, ~51,290 orders from 2011–2014, covering Furniture, Office Supplies, and 
 
 Technology categories across multiple countries. 
 
